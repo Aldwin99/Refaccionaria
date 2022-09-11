@@ -1,0 +1,65 @@
+2022/08/10 21:51:41.559636 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 21:51:41.559636 Escuchando en el puerto :8000.
+2022/08/10 22:07:30.504490 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 22:07:30.504490 Escuchando en el puerto :8000.
+2022/08/10 22:07:30.507396 listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/10 22:07:33.138693 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 22:07:33.139691 Escuchando en el puerto :8000.
+2022/08/10 22:07:33.141647 listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/10 23:00:52.409966 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 23:00:52.409966 Escuchando en el puerto :8000.
+2022/08/10 23:00:52.412958 listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/10 23:00:54.578729 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 23:00:54.578729 Escuchando en el puerto :8000.
+2022/08/10 23:00:54.580840 listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/10 23:00:59.708374 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 23:00:59.709370 Escuchando en el puerto :8000.
+2022/08/10 23:00:59.711332 listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/10 23:01:00.970310 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 23:01:00.970310 Escuchando en el puerto :8000.
+2022/08/10 23:01:00.974301 listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/10 23:01:30.333384 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/08/10 23:01:30.333384 Escuchando en el puerto :8000.
+2022/08/10 23:01:30.334342 listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/08/10 23:02:04.101870 error de servidor. El mensaje es: el archivo 'C:\Users\aldai\Desktop\PNGPIX-COM-Pepsi-Logo-PNG-Transparent (1).png' no se puede decodificar como imagen
+2022/08/10 23:02:41.723383 Advertencia: ocurrió un error leyendo la clave API del archivo 'api_key.txt'. Esto no es un problema si solo está usando la versión de prueba, pero si usted tiene su clave API recuerde colocarla en el archivo api_key.txt. El archivo debe estar en el mismo directorio que el plugin ejecutable

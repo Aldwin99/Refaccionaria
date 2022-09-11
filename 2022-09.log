@@ -1,0 +1,12 @@
+2022/09/10 22:29:24.941133 Plugin para comunicación con impresoras térmicas 
+Proudly brought to you by Parzibyte
+==========================================
+	https://parzibyte.me/blog
+==========================================
+Entorno: Producción
+2022/09/10 22:29:24.941133 Escuchando en el puerto :8000.
+2022/09/10 22:46:53.917627 error de servidor. El mensaje es: error codificando imagen como base64. Asegúrese de que la URL de la imagen es válida
+2022/09/10 22:54:38.313509 error de servidor. El mensaje es: error codificando imagen como base64. Asegúrese de que la URL de la imagen es válida
+2022/09/10 22:56:04.780518 error de servidor. El mensaje es: error codificando imagen como base64. Asegúrese de que la URL de la imagen es válida
+2022/09/10 23:01:59.343964 error de servidor. El mensaje es: error codificando imagen como base64. Asegúrese de que la URL de la imagen es válida
+2022/09/10 23:05:59.133074 error de servidor. El mensaje es: error codificando imagen como base64. Asegúrese de que la URL de la imagen es válida

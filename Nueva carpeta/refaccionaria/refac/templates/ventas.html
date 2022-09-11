@@ -1,0 +1,20 @@
+
+{% extends "base.html" %}
+ 
+{% block content%}
+
+<div>
+    
+<h1>Apartado de ventas</h1>
+    {%for i in refacciones%}    
+  <h3>{{i.nombre}}</h3> 
+  <h3>{{i.descripcion}}</h3> 
+  <h3>{{i.modelo}}</h3>
+  <h3>{{i.precio}}</h3>
+  <h3>{{i.cantidad}}</h3>
+  {% endfor %}
+</div>
+
+{% endblock %}
+
+
